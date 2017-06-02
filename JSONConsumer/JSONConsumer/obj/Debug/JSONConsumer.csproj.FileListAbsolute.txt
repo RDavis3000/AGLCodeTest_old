@@ -1,0 +1,9 @@
+c:\users\ridavis\documents\visual studio 2013\Projects\JSONConsumer\JSONConsumer\bin\Debug\JSONConsumer.dll
+c:\users\ridavis\documents\visual studio 2013\Projects\JSONConsumer\JSONConsumer\bin\Debug\JSONConsumer.pdb
+c:\users\ridavis\documents\visual studio 2013\Projects\JSONConsumer\JSONConsumer\obj\Debug\JSONConsumer.dll
+c:\users\ridavis\documents\visual studio 2013\Projects\JSONConsumer\JSONConsumer\obj\Debug\JSONConsumer.pdb
+c:\users\ridavis\documents\visual studio 2013\Projects\JSONConsumer\JSONConsumer\bin\Debug\Autofac.dll
+c:\users\ridavis\documents\visual studio 2013\Projects\JSONConsumer\JSONConsumer\bin\Debug\Autofac.xml
+c:\users\ridavis\documents\visual studio 2013\Projects\JSONConsumer\JSONConsumer\bin\Debug\Newtonsoft.Json.dll
+c:\users\ridavis\documents\visual studio 2013\Projects\JSONConsumer\JSONConsumer\bin\Debug\Newtonsoft.Json.xml
+c:\users\ridavis\documents\visual studio 2013\Projects\JSONConsumer\JSONConsumer\obj\Debug\JSONConsumer.csprojResolveAssemblyReference.cache
